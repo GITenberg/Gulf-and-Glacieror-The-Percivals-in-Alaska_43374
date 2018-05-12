@@ -1,0 +1,42 @@
+_repo: Gulf-and-Glacieror-The-Percivals-in-Alaska_43374
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barnes, Hiram P. (Hiram Putnam)
+    alias: Barnes, H. P. (Hiram Putnam)
+    gutenberg_agent_id: '37771'
+    url: http://www.gutenberg.org/2009/agents/37771
+covers:
+- cover_type: archival
+  image_path: 43374-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Allen, Willis Boyd
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '41542'
+    url: http://www.gutenberg.org/2009/agents/41542
+description: ''
+gutenberg_issued: '2013-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Alaska -- Description and travel -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Glaciers -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+title: Gulf and Glacier; or, The Percivals in Alaska
+url: http://www.gutenberg.org/ebooks/43374
