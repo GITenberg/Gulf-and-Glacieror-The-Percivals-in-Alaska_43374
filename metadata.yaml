@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41542'
     url: http://www.gutenberg.org/2009/agents/41542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43374#Gulf-and-Glacieror-The-Percivals-in-Alaska
 gutenberg_issued: '2013-08-01'
 gutenberg_type: Text
 identifiers:
